@@ -8,6 +8,7 @@ authors = ["Mark Nicholson <wmark.nicholsonu@gmail.com>"]
 python = "^3.10"
 Django = "^3.2.9"
 python-dotenv = "^0.19.1"
+djangorestframework = "^3.12.4"
 
 [tool.poetry.dev-dependencies]
 
